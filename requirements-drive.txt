@@ -1,7 +1,0 @@
-numpy
-python-socketio
-eventlet
-pillow
-flask
-torch
-torchvision
